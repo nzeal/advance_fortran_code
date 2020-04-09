@@ -1,13 +1,3 @@
-! -------- Future Goal -----
-! I am going to parallize this code using MPI and OpenMP
-
-! psudo code
-! ========== 
-! User should give info about the size of matrix 
-! User should type number which will be equal to the size of matrix 
-! It will create matrix A and B 
-! then it will give output value C
-
 program add_matrix
 	!implicit none
 
